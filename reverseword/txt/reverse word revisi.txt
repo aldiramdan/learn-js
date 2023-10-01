@@ -1,0 +1,29 @@
+1. Mulai
+2. Input x
+3. Cek x tipe String
+4. Jika "ya" lanjut proses
+5. Jika "tidak" input x
+6. Membuat variable word = "", arr = "", result = ""
+7. Membuat variable i = 0
+8. Cek i <  x.length
+9. Jika "ya" lanjut proses
+10. Membuat variable text = x[i]
+11. Cek i = x.length-1
+12. Jika "ya" lanjut proses
+13. Jika "tidak" 
+14. Cek text = " " jika ada spasi
+15. Jika "ya" maka mengkosongkan word
+16. Jika"tidak" maka menambahkan huruf kedalam variable huruf
+17. Mingisi varible word dan menambahkan variable i
+18. Cek i <  x.length
+19. Jika "tidak" membuat variable i dengan length array (i=arr.length-1)
+20. Membuat variable i >= 0
+21. Membuat variable revword = arr[i]
+22. Membuat variable j=0
+23. Cek j=revword.length
+24. Jika "ya" maka membuat variable text dan mengisi variable result
+25. Membuat variable j=j+1
+26. Cek j=revword.length
+27. Jika "tidak" hasil dari result
+28. Output result
+29. Selesai

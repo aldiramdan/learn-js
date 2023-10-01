@@ -1,0 +1,10 @@
+1. Mulai
+2. Masukan text
+3. Cek text tipe string
+4. Jika "ya" lanjut proses
+5. Jika "tidak" balik ke masukan text
+6. Mengsplit kalimat [saya,belajar,javascript]
+7. Menggarray kalimat dan mengembalikan kalimat dengan array[javascrip,belajar,saya]
+8. Mengjoin kalimat dengan string javascript belajar saya
+9. Output Reverse Word
+10. Selesai

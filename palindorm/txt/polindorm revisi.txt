@@ -1,0 +1,13 @@
+1. Mulai
+2. Masukan text
+3. Cek Text tipe String
+4. Jika "ya" lanjut proses
+5. Jika "tidak" balik ke masukan text
+6. Membuat variable x=teks.length-1
+7. Cek x >= 0
+8. Jika "ya" maka membuat reverse kata dengan variavle revteks
+9. Membuat variable x = x-1
+10. Jika "tidak" lanjut proses membandingkan
+11. Cek membandingkan teks dan revtesk
+12. Jika "ya" maka palindrom
+13. Jika "tidak" makan bukan palindorm

@@ -1,0 +1,14 @@
+1. Mulai
+2. Masukan text
+3. Cek Text tipe String
+4. Jika "ya" lanjut proses
+5. Jika "tidak" balik ke masukan text
+6. Cek i = 0 < text.length / 2
+7. Jika "ya" lanjut proses selanjutnya
+8. Jika "tidak" maka selesai
+9. Membuat variable indexawal = i
+10. Membuat variable indexakhir = text.length - i - 1
+11. Cek text.charAt(indexawal) = text.charAt(indexakhir)
+12. Jika "ya" maka nilai text.char palindorm dan i = i + 1 balik ke proses bagian 6
+13. Jika "tidak" maka nilai text.char tidak palindorm
+14. Selesai
